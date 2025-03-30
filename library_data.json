@@ -1,0 +1,87 @@
+[
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Publication_Year": 1949,
+        "Genres": [
+            "Dystopian",
+            "Science Fiction",
+            "Political Fiction"
+        ],
+        "Read_Status": false,
+        "Reading_Progress": {
+            "Start_Date": "2024-03-01",
+            "Current_Page": 45,
+            "Total_Pages": 328,
+            "Progress_Percentage": 13.7
+        }
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Publication_Year": 1813,
+        "Genres": [
+            "Romance",
+            "Classic",
+            "Historical Fiction"
+        ],
+        "Read_Status": false,
+        "Reading_Progress": {
+            "Start_Date": "2024-03-15",
+            "Current_Page": 0,
+            "Total_Pages": 432,
+            "Progress_Percentage": 0
+        }
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Publication_Year": 1925,
+        "Genres": [
+            "Fiction",
+            "Classic",
+            "Romance"
+        ],
+        "Read_Status": true,
+        "Reading_Progress": {
+            "Start_Date": "2024-01-15",
+            "Current_Page": 180,
+            "Total_Pages": 180,
+            "Progress_Percentage": 100
+        }
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "Publication_Year": 1937,
+        "Genres": [
+            "Fantasy",
+            "Adventure",
+            "Classic"
+        ],
+        "Read_Status": true,
+        "Reading_Progress": {
+            "Start_Date": "2024-01-20",
+            "Current_Page": 310,
+            "Total_Pages": 310,
+            "Progress_Percentage": 100
+        }
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Publication_Year": 1960,
+        "Genres": [
+            "Fiction",
+            "Classic",
+            "Historical Fiction"
+        ],
+        "Read_Status": true,
+        "Reading_Progress": {
+            "Start_Date": "2024-02-01",
+            "Current_Page": 281,
+            "Total_Pages": 281,
+            "Progress_Percentage": 100
+        }
+    }
+]
